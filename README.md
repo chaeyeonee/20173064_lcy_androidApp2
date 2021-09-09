@@ -7,6 +7,6 @@
  - 안드로이드 프로그래밍 시작
     - Toast 알림
     - AVD 시작하기
-         - 1
-         - 2
-         - 3
+    
+    <img width="300" height="300" src="./png/sky.png"></img>
+   
