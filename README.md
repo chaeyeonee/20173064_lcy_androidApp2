@@ -8,5 +8,5 @@
     - Toast 알림
     - AVD 시작하기
     
-    <img width="300" height="300" src="./png/sky.png"></img>
+    <img width="" height="" src="./png/2주차과제.png"></img>
    
