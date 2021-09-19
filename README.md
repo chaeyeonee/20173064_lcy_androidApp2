@@ -13,5 +13,5 @@
 ## 3주차
   - 네이버 창 띄우기
   - 전화걸기 창 띄우기 
-   <img width="" height="" src="./png/3주차과제_naver.png"></img>
+  <img width="" height="" src="./png/3주차과제_naver.png"></img>
    <img width="" height="" src="./png/전화걸기.png"></img>
