@@ -25,5 +25,8 @@
 - 이미지 바꾸기 
  <img width="" height="" src="./png/5주차과제.png"></img>
   <img width="" height="" src="./png/5주차과제1.png"></img>
+## 6주차
+<img width="" height="" src="./png/6주차과제.png"></img>
+<img width="" height="" src="./png/6주차과제1.png"></img>
 
   
