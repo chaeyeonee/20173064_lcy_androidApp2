@@ -38,4 +38,15 @@
 <img width="" height="" src="./png/10주차_과제.png"></img>
 ## 11주차
 <img width="" height="" src="./png/11주차_이채연.png"></img>
-  
+## 12주차
+다 맞게 한 거 같은데 실행 화면이 도저히 안 떠서 모든 코드들 캡처해서 올려봅니다!
+<img width="" height="" src="./png/2.png"></img>
+<img width="" height="" src="./png/5.png"></img>
+<img width="" height="" src="./png/6.png"></img>
+<img width="" height="" src="./png/3.png"></img>
+<img width="" height="" src="./png/4.png"></img>
+<img width="" height="" src="./png/1.png"></img>
+<img width="" height="" src="./png/7.png"></img>
+<img width="" height="" src="./png/8.png"></img>
+<img width="" height="" src="./png/9.png"></img>
+
